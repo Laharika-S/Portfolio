@@ -171,7 +171,8 @@ section {
   display: flex;
   height: 500px;
   width: 500px;
-  margin: auto 0; 
+  margin: auto 0;
+  justify-content: center; 
 }
 
 .profile-pic {
